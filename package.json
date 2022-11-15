@@ -1,0 +1,27 @@
+{
+  "name": "express-serving",
+  "version": "1.0.0",
+  "description": "Exploring serving using Express.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osu-cs290-f22/express-serving.git"
+  },
+  "keywords": [
+    "Express",
+    "serving"
+  ],
+  "author": "Hess <hessro@oregonstate.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/osu-cs290-f22/express-serving/issues"
+  },
+  "homepage": "https://github.com/osu-cs290-f22/express-serving#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
